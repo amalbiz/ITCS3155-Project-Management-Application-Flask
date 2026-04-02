@@ -1,0 +1,134 @@
+/* webpage styling */
+* {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1 {
+    color:#05386B;
+    text-align: center;
+}
+
+h2 {
+    color: #05386B;
+}
+
+h3 {
+    color:#0e2c4b;
+    font-size: 16px;
+}
+
+h4 {
+    color:#0a2b40;
+    font-size: 18px;
+}
+
+body {
+    background:#5CDB95;
+}
+
+a, .nav-spacing {
+    color: inherit;
+    color: #0a2b40;
+}
+
+h5 {
+    text-align: left;
+}
+
+nav {
+    text-align: center;
+}
+
+.box {
+    color: #1b6758;
+    width: 40%;
+    text-align: center;
+    margin: 0px auto;
+}
+
+.table-header {
+    text-align: center;
+    margin: 0px auto;
+}
+
+.insideBox {
+    background-color: #edf5e1;
+    text-align: left;
+    border: 5px solid;
+    margin-bottom: 20px;
+    width: 100%;
+}
+.imgBox {
+    background-color: #edf5e1;
+    text-align: left;
+    border: 2px solid;
+    margin-bottom: 20px;
+}
+.imgRow {
+    border: 5px solid #1b6758;
+    width: 1em;
+    text-align: left;
+}
+
+.insideBox h3 {
+    text-align: center;
+    margin: 3px; 
+}
+
+.tableRow {
+    border: 5px solid #1b6758;
+    width: 5em;
+    text-align: center;
+}
+
+.tableRow2 {
+    border: 5px solid #1b6758;
+    width: 15em;
+}
+
+.tableRow3 {
+    border: 5px solid #1b6758;
+    width: 25em;
+}
+
+.insideBox input[type=submit] {
+    margin: 2px;
+    width: 100%;
+}
+
+.projectView {
+    text-align: center;
+}
+
+.commentsBox {
+    border: 2px solid gray;
+    padding-bottom: 20px;
+    width: 200px;
+    padding-right: 20px;
+    margin: 0px auto;
+}
+
+.commentsBox h2 {
+    text-align: center;
+}
+
+form div {
+    margin: 2px auto;
+    width: 200px;
+}
+.parent {
+    margin: 1rem;
+    padding: 2rem 2rem;
+    text-align: center;
+  }
+  .child {
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+    text-align: left;
+  }
+  .child2 {
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+  }
